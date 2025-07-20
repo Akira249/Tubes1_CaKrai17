@@ -11,7 +11,7 @@ using namespace std;
 
 enum class SystemState {
         INIT,
-        IDLE,
+        IDLE, 
         MOVEMENT,
         SHOOTING,
         CALCULATION,
